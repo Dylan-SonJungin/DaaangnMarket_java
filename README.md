@@ -1,2 +1,2 @@
-# DaaangnMarket_java
+# 당근마켓(중고거래 웹사이트)
 2022 Spring 사용한 당근마켓 구현
