@@ -1,2 +1,8 @@
-# 당근마켓(중고거래 웹사이트)
-2022 Spring 사용한 당근마켓 구현
+# 당근마켓 week1
+#1. ERD
+
+<img width="800" alt="daaangn_erd" src="https://user-images.githubusercontent.com/88484476/209300971-8b5ce145-4f1e-44a0-9695-080d82b77681.png">
+
+#2. API 문서(v1.0)
+
+[API 문서](https://docs.google.com/spreadsheets/d/1QqSNIhdU1YyFUm0mdg9sFoPYIWXdy8ne18o3CWHGnCU/edit?usp=sharing)
