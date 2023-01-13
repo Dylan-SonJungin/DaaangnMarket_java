@@ -1,4 +1,4 @@
-# 당근마켓 week2
+# 당근마켓 week2&3
 #1. ERD(수정x)
 
 <img width="800" alt="daaangn_erd" src="https://user-images.githubusercontent.com/88484476/209300971-8b5ce145-4f1e-44a0-9695-080d82b77681.png">
